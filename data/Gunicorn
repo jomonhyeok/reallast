@@ -1,0 +1,1 @@
+WSGI 미들웨어의 한 종류인 Gunicorn은 Nginx와 Django가 통신하기 위한 인터페이스 역할을 한다.

@@ -1,0 +1,26 @@
+.side{
+  margin-left: 140px;
+  margin-right: 140px;
+}
+a{
+  color:black;
+}
+
+.본문{
+  border: 3px solid brown;
+  border-radius: 7px;
+  margin-right: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding : 20px;
+}
+.제목{
+  color:black;
+  font-size: 2rem;
+  font-family : '한컴 윤고딕 250';
+}
+.내용{
+  font-family : '한컴 윤고딕 240';
+  font-size: 1rem;
+  text-indent:2rem;
+}
